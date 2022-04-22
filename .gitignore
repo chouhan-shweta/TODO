@@ -1,8 +1,8 @@
 # created by virtualenv automatically
 Lib
+__pycache__
 Scripts
 pyvenv.cfg
-__pycache__
 include
 static
 login.py
