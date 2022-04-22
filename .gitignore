@@ -5,5 +5,4 @@ Scripts
 pyvenv.cfg
 include
 static
-login.py
-login.html
+
